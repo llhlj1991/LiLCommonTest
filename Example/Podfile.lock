@@ -1,0 +1,16 @@
+PODS:
+  - LiLTestPod (0.1.0)
+
+DEPENDENCIES:
+  - LiLTestPod (from `../`)
+
+EXTERNAL SOURCES:
+  LiLTestPod:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LiLTestPod: 591b5f3aa7f995a5144cf18703acaf742ec29103
+
+PODFILE CHECKSUM: 61c88d02040e2292645dab5c4476b8bd28f33983
+
+COCOAPODS: 1.9.0

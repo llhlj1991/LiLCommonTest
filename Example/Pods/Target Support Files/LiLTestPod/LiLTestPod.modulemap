@@ -1,0 +1,6 @@
+framework module LiLTestPod {
+  umbrella header "LiLTestPod-umbrella.h"
+
+  export *
+  module * { export * }
+}
